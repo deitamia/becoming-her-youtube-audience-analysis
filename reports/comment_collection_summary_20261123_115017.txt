@@ -1,0 +1,34 @@
+BECOMING HER - YOUTUBE COMMENT COLLECTION SUMMARY
+=======================================================
+Collection time (UTC): 2026-11-23T03:50:09.847319+00:00
+Videos selected: 25
+Videos with returned comments: 25
+Total comments collected: 2348
+Unique comment IDs: 2348
+Duplicate comment IDs: 0
+Missing comment text: 0
+Videos with disabled comments: 0
+Videos with empty responses: 0
+Other API errors: 0
+
+VIDEO SELECTION COUNTS BY THEME
+-----------------------------------
+Confidence: 3
+Self-worth and self-love: 3
+Self-discovery and identity: 3
+Transformation and personal growth: 3
+Habits and discipline: 3
+Financial independence: 3
+Feminine lifestyle: 1
+Emotional growth: 3
+Mindset: 3
+
+COLLECTION LIMITATIONS
+- Up to 100 top-level comments per selected video.
+- Comments ordered by YouTube relevance.
+- Replies were not collected.
+- Commenter identities were not collected.
+- Comments are voluntary and not representative of all viewers.
+- The sample is limited to the existing 120-video dataset.
+
+Raw output: C:\Users\mydei\OneDrive\Documents\becoming-her-research\data\raw\youtube_comments_20261123_115017.csv
